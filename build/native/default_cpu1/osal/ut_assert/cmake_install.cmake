@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/osal/ut_assert
+# Install script for directory: /home/xilinx/cFS/osal/ut_assert
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/mint/cFS/apps/ci_lab/fsw/src/ci_lab_app.c" "/home/mint/cFS/build/native/default_cpu1/apps/ci_lab/CMakeFiles/ci_lab.dir/fsw/src/ci_lab_app.c.o"
+  "/home/xilinx/cFS/apps/ci_lab/fsw/src/ci_lab_app.c" "/home/xilinx/cFS/build/native/default_cpu1/apps/ci_lab/CMakeFiles/ci_lab.dir/fsw/src/ci_lab_app.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -13,19 +13,18 @@ set(CMAKE_TARGET_DEFINITIONS_C
   "SIMULATION=native"
   "_LINUX_OS_"
   "_XOPEN_SOURCE=600"
-  "ci_lab_EXPORTS"
   )
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/home/mint/cFS/build/inc"
+  "/home/xilinx/cFS/build/inc"
   "inc"
-  "/home/mint/cFS/osal/src/os/inc"
-  "/home/mint/cFS/psp/fsw/inc"
-  "/home/mint/cFS/cfe/fsw/cfe-core/src/inc"
-  "/home/mint/cFS/cfe/cmake/target/inc"
-  "/home/mint/cFS/apps/ci_lab/fsw/mission_inc"
-  "/home/mint/cFS/apps/ci_lab/fsw/platform_inc"
+  "/home/xilinx/cFS/osal/src/os/inc"
+  "/home/xilinx/cFS/psp/fsw/inc"
+  "/home/xilinx/cFS/cfe/fsw/cfe-core/src/inc"
+  "/home/xilinx/cFS/cfe/cmake/target/inc"
+  "/home/xilinx/cFS/apps/ci_lab/fsw/mission_inc"
+  "/home/xilinx/cFS/apps/ci_lab/fsw/platform_inc"
   )
 
 # Targets to which this target links.

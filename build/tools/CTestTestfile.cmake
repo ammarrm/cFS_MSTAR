@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/mint/cFS/tools
-# Build directory: /home/mint/cFS/build/tools
+# Source directory: /home/xilinx/cFS/tools
+# Build directory: /home/xilinx/cFS/build/tools
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

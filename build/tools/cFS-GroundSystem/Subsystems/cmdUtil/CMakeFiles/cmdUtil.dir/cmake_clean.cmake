@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cmdUtil.dir/SendUdp.c.o"
   "CMakeFiles/cmdUtil.dir/cmdUtil.c.o"
-  "cmdUtil"
+  "CMakeFiles/cmdUtil.dir/SendUdp.c.o"
   "cmdUtil.pdb"
+  "cmdUtil"
 )
 
 # Per-language clean rules from dependency scanning.

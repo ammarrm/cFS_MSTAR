@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/tools
+# Install script for directory: /home/xilinx/cFS/tools
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/mint/cFS/build/tools/cFS-GroundSystem/Subsystems/cmdUtil/cmake_install.cmake")
-  include("/home/mint/cFS/build/tools/elf2cfetbl/cmake_install.cmake")
-  include("/home/mint/cFS/build/tools/tblCRCTool/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/tools/cFS-GroundSystem/Subsystems/cmdUtil/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/tools/elf2cfetbl/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/tools/tblCRCTool/cmake_install.cmake")
 
 endif()
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/psp/fsw/pc-linux
+# Install script for directory: /home/xilinx/cFS/psp/fsw/pc-linux
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

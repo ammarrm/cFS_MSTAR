@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/osal
+# Install script for directory: /home/xilinx/cFS/osal
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/mint/cFS/build/native/default_cpu1/osal/ut_assert/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/osal/generic-linux_impl/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/osal/posix_impl/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/osal/ut_assert/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/osal/generic-linux_impl/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/osal/posix_impl/cmake_install.cmake")
 
 endif()
 

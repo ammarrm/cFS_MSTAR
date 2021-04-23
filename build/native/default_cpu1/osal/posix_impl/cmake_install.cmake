@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/osal/src/os/posix
+# Install script for directory: /home/xilinx/cFS/osal/src/os/posix
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

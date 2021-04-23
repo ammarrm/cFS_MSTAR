@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/tools/tblCRCTool
+# Install script for directory: /home/xilinx/cFS/tools/tblCRCTool
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/host/cfe_ts_crc"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/host" TYPE EXECUTABLE FILES "/home/mint/cFS/build/tools/tblCRCTool/cfe_ts_crc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/host" TYPE EXECUTABLE FILES "/home/xilinx/cFS/build/tools/tblCRCTool/cfe_ts_crc")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/host/cfe_ts_crc" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/host/cfe_ts_crc")
     if(CMAKE_INSTALL_DO_STRIP)

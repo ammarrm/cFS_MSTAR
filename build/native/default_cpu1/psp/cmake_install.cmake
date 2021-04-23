@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/psp
+# Install script for directory: /home/xilinx/cFS/psp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/mint/cFS/build/native/default_cpu1/psp/pc-linux-impl/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/psp/pc-linux-shared/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/psp/pc-linux-impl/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/psp/pc-linux-shared/cmake_install.cmake")
 
 endif()
 

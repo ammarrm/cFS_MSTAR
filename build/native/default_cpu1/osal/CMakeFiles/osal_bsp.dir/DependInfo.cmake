@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/mint/cFS/osal/src/bsp/shared/src/bsp_default_app_run.c" "/home/mint/cFS/build/native/default_cpu1/osal/CMakeFiles/osal_bsp.dir/src/bsp/shared/src/bsp_default_app_run.c.o"
-  "/home/mint/cFS/osal/src/bsp/shared/src/bsp_default_app_startup.c" "/home/mint/cFS/build/native/default_cpu1/osal/CMakeFiles/osal_bsp.dir/src/bsp/shared/src/bsp_default_app_startup.c.o"
-  "/home/mint/cFS/osal/src/bsp/shared/src/bsp_default_symtab.c" "/home/mint/cFS/build/native/default_cpu1/osal/CMakeFiles/osal_bsp.dir/src/bsp/shared/src/bsp_default_symtab.c.o"
-  "/home/mint/cFS/osal/src/bsp/shared/src/osapi-bsp.c" "/home/mint/cFS/build/native/default_cpu1/osal/CMakeFiles/osal_bsp.dir/src/bsp/shared/src/osapi-bsp.c.o"
+  "/home/xilinx/cFS/osal/src/bsp/shared/src/bsp_default_app_run.c" "/home/xilinx/cFS/build/native/default_cpu1/osal/CMakeFiles/osal_bsp.dir/src/bsp/shared/src/bsp_default_app_run.c.o"
+  "/home/xilinx/cFS/osal/src/bsp/shared/src/bsp_default_app_startup.c" "/home/xilinx/cFS/build/native/default_cpu1/osal/CMakeFiles/osal_bsp.dir/src/bsp/shared/src/bsp_default_app_startup.c.o"
+  "/home/xilinx/cFS/osal/src/bsp/shared/src/bsp_default_symtab.c" "/home/xilinx/cFS/build/native/default_cpu1/osal/CMakeFiles/osal_bsp.dir/src/bsp/shared/src/bsp_default_symtab.c.o"
+  "/home/xilinx/cFS/osal/src/bsp/shared/src/osapi-bsp.c" "/home/xilinx/cFS/build/native/default_cpu1/osal/CMakeFiles/osal_bsp.dir/src/bsp/shared/src/osapi-bsp.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -20,10 +20,10 @@ set(CMAKE_TARGET_DEFINITIONS_C
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/home/mint/cFS/build/inc"
+  "/home/xilinx/cFS/build/inc"
   "inc"
-  "/home/mint/cFS/osal/src/os/inc"
-  "/home/mint/cFS/osal/src/bsp/shared/inc"
+  "/home/xilinx/cFS/osal/src/os/inc"
+  "/home/xilinx/cFS/osal/src/bsp/shared/inc"
   )
 
 # Targets to which this target links.

@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/cfe/fsw/cfe-core
+# Install script for directory: /home/xilinx/cFS/cfe/fsw/cfe-core
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

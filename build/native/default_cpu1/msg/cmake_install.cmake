@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/cfe/modules/msg
+# Install script for directory: /home/xilinx/cFS/cfe/modules/msg
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

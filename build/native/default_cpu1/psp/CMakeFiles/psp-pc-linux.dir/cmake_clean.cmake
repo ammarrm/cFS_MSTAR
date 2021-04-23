@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "libpsp-pc-linux.a"
   "libpsp-pc-linux.pdb"
+  "libpsp-pc-linux.a"
 )
 
 # Per-language clean rules from dependency scanning.

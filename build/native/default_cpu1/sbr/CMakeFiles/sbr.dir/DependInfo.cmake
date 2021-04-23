@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/mint/cFS/cfe/modules/sbr/src/cfe_sbr_map_direct.c" "/home/mint/cFS/build/native/default_cpu1/sbr/CMakeFiles/sbr.dir/src/cfe_sbr_map_direct.c.o"
-  "/home/mint/cFS/cfe/modules/sbr/src/cfe_sbr_route_unsorted.c" "/home/mint/cFS/build/native/default_cpu1/sbr/CMakeFiles/sbr.dir/src/cfe_sbr_route_unsorted.c.o"
+  "/home/xilinx/cFS/cfe/modules/sbr/src/cfe_sbr_map_direct.c" "/home/xilinx/cFS/build/native/default_cpu1/sbr/CMakeFiles/sbr.dir/src/cfe_sbr_map_direct.c.o"
+  "/home/xilinx/cFS/cfe/modules/sbr/src/cfe_sbr_route_unsorted.c" "/home/xilinx/cFS/build/native/default_cpu1/sbr/CMakeFiles/sbr.dir/src/cfe_sbr_route_unsorted.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -18,13 +18,13 @@ set(CMAKE_TARGET_DEFINITIONS_C
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/home/mint/cFS/build/inc"
+  "/home/xilinx/cFS/build/inc"
   "inc"
-  "/home/mint/cFS/osal/src/os/inc"
-  "/home/mint/cFS/psp/fsw/inc"
-  "/home/mint/cFS/cfe/fsw/cfe-core/src/inc"
-  "/home/mint/cFS/cfe/cmake/target/inc"
-  "/home/mint/cFS/cfe/modules/sbr/private_inc"
+  "/home/xilinx/cFS/osal/src/os/inc"
+  "/home/xilinx/cFS/psp/fsw/inc"
+  "/home/xilinx/cFS/cfe/fsw/cfe-core/src/inc"
+  "/home/xilinx/cFS/cfe/cmake/target/inc"
+  "/home/xilinx/cFS/cfe/modules/sbr/private_inc"
   )
 
 # Targets to which this target links.

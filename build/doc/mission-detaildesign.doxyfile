@@ -3,21 +3,21 @@
 #---------------------------------------------------------------------------
 
 # Start with the common definitions, some of which are extended or overridden here.
-@INCLUDE               = /home/mint/cFS/build/doc/cfe-common.doxyfile
+@INCLUDE               = /home/xilinx/cFS/build/doc/cfe-common.doxyfile
 PROJECT_NAME           = "SampleMission"
 PROJECT_BRIEF          = "Core Flight System project built using \"sample\" configuration"
 OUTPUT_DIRECTORY       = detaildesign
 
-INPUT                 += /home/mint/cFS/sample_defs  \
-                         /home/mint/cFS/osal/src/os/inc \
-                         /home/mint/cFS/osal/src/os/shared \
-                         /home/mint/cFS/psp/fsw/inc \
-                         /home/mint/cFS/psp/fsw/shared \
-                         /home/mint/cFS/cfe/fsw/cfe-core/src
+INPUT                 += /home/xilinx/cFS/sample_defs  \
+                         /home/xilinx/cFS/osal/src/os/inc \
+                         /home/xilinx/cFS/osal/src/os/shared \
+                         /home/xilinx/cFS/psp/fsw/inc \
+                         /home/xilinx/cFS/psp/fsw/shared \
+                         /home/xilinx/cFS/cfe/fsw/cfe-core/src
                          
-STRIP_FROM_PATH       += /home/mint/cFS/sample_defs
+STRIP_FROM_PATH       += /home/xilinx/cFS/sample_defs
 
 #---------------------------------------------------------------------------
 # The user content doxyfile contains paths to the mission-specific applications   
 #---------------------------------------------------------------------------
-@INCLUDE               = /home/mint/cFS/build/doc/mission-content.doxyfile
+@INCLUDE               = /home/xilinx/cFS/build/doc/mission-content.doxyfile

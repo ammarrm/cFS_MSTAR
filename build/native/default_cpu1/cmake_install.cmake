@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/cfe
+# Install script for directory: /home/xilinx/cFS/cfe
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,22 +38,22 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/cpu1/cf" TYPE FILE RENAME "cfe_es_startup.scr" FILES "/home/mint/cFS/sample_defs/cpu1_cfe_es_startup.scr")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/cpu1/cf" TYPE FILE RENAME "cfe_es_startup.scr" FILES "/home/xilinx/cFS/sample_defs/cpu1_cfe_es_startup.scr")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/mint/cFS/build/native/default_cpu1/osal/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/cfe-core/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/psp/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/msg/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/sbr/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/apps/ci_lab/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/apps/to_lab/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/apps/sch_lab/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/apps/sample_app/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/apps/sample_lib/cmake_install.cmake")
-  include("/home/mint/cFS/build/native/default_cpu1/cpu1/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/osal/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/cfe-core/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/psp/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/msg/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/sbr/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/apps/ci_lab/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/apps/to_lab/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/apps/sch_lab/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/apps/sample_app/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/apps/sample_lib/cmake_install.cmake")
+  include("/home/xilinx/cFS/build/native/default_cpu1/cpu1/cmake_install.cmake")
 
 endif()
 
@@ -65,5 +65,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mint/cFS/build/native/default_cpu1/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/xilinx/cFS/build/native/default_cpu1/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

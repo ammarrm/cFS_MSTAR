@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/cfe/modules/sbr
+# Install script for directory: /home/xilinx/cFS/cfe/modules/sbr
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

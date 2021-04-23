@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/psp/fsw/shared
+# Install script for directory: /home/xilinx/cFS/psp/fsw/shared
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

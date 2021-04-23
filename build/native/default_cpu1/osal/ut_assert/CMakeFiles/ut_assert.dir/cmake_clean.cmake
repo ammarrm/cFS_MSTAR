@@ -5,8 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/ut_assert.dir/src/utstubs.c.o"
   "CMakeFiles/ut_assert.dir/src/uttest.c.o"
   "CMakeFiles/ut_assert.dir/src/uttools.c.o"
-  "libut_assert.a"
   "libut_assert.pdb"
+  "libut_assert.a"
 )
 
 # Per-language clean rules from dependency scanning.

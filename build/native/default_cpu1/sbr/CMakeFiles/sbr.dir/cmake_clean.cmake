@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/sbr.dir/src/cfe_sbr_map_direct.c.o"
   "CMakeFiles/sbr.dir/src/cfe_sbr_route_unsorted.c.o"
-  "libsbr.a"
   "libsbr.pdb"
+  "libsbr.a"
 )
 
 # Per-language clean rules from dependency scanning.

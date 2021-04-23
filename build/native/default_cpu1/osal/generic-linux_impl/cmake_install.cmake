@@ -1,4 +1,4 @@
-# Install script for directory: /home/mint/cFS/osal/src/bsp/generic-linux
+# Install script for directory: /home/xilinx/cFS/osal/src/bsp/generic-linux
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
